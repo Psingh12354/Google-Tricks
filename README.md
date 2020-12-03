@@ -36,4 +36,8 @@
 
 - bizrebellion82
 
+## Hacks
+
+[google database hacks](https://www.exploit-db.com/google-hacking-database)
+
 - to get the detail of any orgainization ( site:linkedin.com intitle:starbucks "network engineer" ) 
