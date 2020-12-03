@@ -35,3 +35,5 @@
 - google pond
 
 - bizrebellion82
+
+- to get the detail of any orgainization ( site:linkedin.com intitle:starbucks "network engineer" ) 
