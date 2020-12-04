@@ -41,3 +41,9 @@
 [google database hacks](https://www.exploit-db.com/google-hacking-database)
 
 - to get the detail of any orgainization ( site:linkedin.com intitle:starbucks "network engineer" ) 
+
+- To get previous version of sites data (cache: www.google.com )
+
+- deleted file ( allintext:username filetype:log)
+
+- To get the index ( intitle:"index of" inurl:ftp)
