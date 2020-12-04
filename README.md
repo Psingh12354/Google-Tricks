@@ -47,3 +47,5 @@
 - deleted file ( allintext:username filetype:log)
 
 - To get the index ( intitle:"index of" inurl:ftp)
+
+- To get the pwd (db_password filetype:env)
