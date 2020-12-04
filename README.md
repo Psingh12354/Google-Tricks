@@ -49,3 +49,8 @@
 - To get the index ( intitle:"index of" inurl:ftp)
 
 - To get the pwd (db_password filetype:env)
+
+- To get improtant site details ( filetype:inc php -site:github.com -site:sourceforge.net)
+
+- To get report of vulnerability ( intitle:"report" ("qualys"|"acunetix"|"nessus"|"netsparker"|"nmap") filetype:pdf)
+
